@@ -1,13 +1,19 @@
 <img src="https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg"/>
 <h1 align="center">Hi 👋, I'm ismail abdou</h1>
+<h1 align="center">
+  <span>حُزْنَ مُسْتَعْمِلِ الدَّوالِ اخْتِيَارًا   ***     </span><span>وَتَجَنَّبْنَا ظُلْمَةَ التَّعْقِيدِ</span>
+  <br/>
+  <span>وَرَكِبْنَا الْكُودَ الْقَرِيبَ فَأَدْرَكْـ    ***     </span><span>نَ بِهِ غَايَةَ الْمُرَادِ الْبَعِيدِ</span>
+  <br/>
+  <span>- البحتري -</span>
+</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
-
-- 🌱 I’m currently learning **ReactJS , NodeJS , ExpressJS**
 
 - 💬 Ask me about **HTML , CSS , JavaScript**
 
 - 📫 How to reach me **ismailabdou981@gmail.com**
 
+- ✔ Avaliable for freelance
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ismailabdou20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailabdou20" height="30" width="40" /></a>
