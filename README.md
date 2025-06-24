@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg" alt="Header Image">
+  <img src="https://raw.githubusercontent.com/TITAH-ISMAIL/TITAH-ISMAIL/refs/heads/main/Profile%20Cover.png" alt="Header Image">
 </p>
-
-<h1 align="center">Hi 👋, I'm Ismail Abdou</h1>
-
+<h3 align="center">Quote</h1>
 <p align="center">
   <em>حُزْنَ مُسْتَعْمِلِ الدَّوالِ اخْتِيَارًا ✧ وَتَجَنَّبْنَ ظُلْمَةَ التَّعْقِيدِ</em><br/>
   <em>وَرَكِبْنَ الْكُودَ الْقَرِيبَ فَأَدْرَكْ ✧ نَ بِهِ غَايَةَ الْمُرَادِ الْبَعِيدِ</em><br/>
