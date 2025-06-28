@@ -16,6 +16,12 @@ I believe that great code is like great poetry – elegant, expressive, and time
 
 ---
 
+## 📚 Currently Learning
+
+I'm currently diving into **C++ fundamentals** and **Object-Oriented Programming (OOP)** to deepen my understanding of low-level programming and strengthen my problem-solving skills.
+
+---
+
 ## ⚒️ Skills & Technologies
 
 - 💻 **Languages:** HTML, CSS, JavaScript, TypeScript, Python  
