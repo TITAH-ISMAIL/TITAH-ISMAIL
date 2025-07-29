@@ -46,16 +46,6 @@ I'm currently diving into **C++ fundamentals** and **Object-Oriented Programming
 
 ---
 
-## 📈 GitHub Stats
-<span align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titah-ismail)](https://github.com/titah-ismail/github-readme-stats) 
-
-</span>
-
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: **ismailabdou981@gmail.com**  
